@@ -36,8 +36,8 @@ swing-top
         }
 
         .invitation-container {
-            max-width: 600px;
-            margin: 20px auto;
+            max-width: 400px;
+            margin: 10px auto;
             background: var(--blanco);
             border: 4px solid var(--dorado);
             box-shadow: 0 10px 30px rgba(46, 90, 54, 0.2);
